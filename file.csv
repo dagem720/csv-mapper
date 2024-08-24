@@ -1,0 +1,21 @@
+Year,Quarter,Region,Department,Process Name,Total Emissions,Emissions per Single
+2023,Q1,North America,Manufacturing,Production Line A,10000,5
+2023,Q1,North America,Manufacturing,Production Line B,8000,4
+2023,Q1,Europe,Manufacturing,Production Line C,12000,6
+2023,Q2,Asia,Manufacturing,Production Line D,9000,3
+2023,Q2,North America,Transportation,Truck Fleet,5000,2
+2023,Q2,Europe,Transportation,Rail Network,3000,1
+2023,Q3,Asia,Energy,Power Plant,20000,10
+2023,Q3,North America,Manufacturing,Production Line A,11000,5.5
+2023,Q3,North America,Manufacturing,Production Line B,9000,4.5
+2023,Q3,Europe,Manufacturing,Production Line C,13000,6.5
+2023,Q4,Asia,Manufacturing,Production Line D,10000,3.5
+2023,Q4,North America,Transportation,Truck Fleet,6000,2.5
+2023,Q4,Europe,Transportation,Rail Network,4000,1.5
+2023,Q4,Asia,Energy,Power Plant,22000,11
+2024,Q1,North America,Manufacturing,Production Line A,12000,6
+2024,Q1,North America,Manufacturing,Production Line B,10000,5
+2024,Q1,Europe,Manufacturing,Production Line C,14000,7
+2024,Q2,Asia,Manufacturing,Production Line D,11000,4
+2024,Q2,North America,Transportation,Truck Fleet,7000,3
+2024,Q2,Europe,Transportation,Rail Network,5000,2
