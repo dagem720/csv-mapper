@@ -4,7 +4,7 @@ This project uses Vue 3 and Tailwind CSS. It consists of two components: a CSV M
 
 ## Deployment
 
-The project is deployed on Vercel. You can access the deployed version [here](#).
+The project is deployed on Vercel. You can access the deployed version [csv-mapper-henna.vercel.app](#).
 
 ## Components
 
@@ -47,6 +47,6 @@ project-directory/
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/dagem720/csv-mapper
+cd csv-mapper
 ```
