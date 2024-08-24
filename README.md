@@ -4,7 +4,7 @@ This project uses Vue 3 and Tailwind CSS. It consists of two components: a CSV M
 
 ## Deployment
 
-The project is deployed on Vercel. You can access the deployed version [csv-mapper-henna.vercel.app](#).
+The project is deployed on Vercel. You can access the deployed version [csv-mapper-henna.vercel.app](#)
 
 ## Components
 
