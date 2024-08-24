@@ -16,6 +16,8 @@ The CSV Mapper Table component is responsible for parsing the uploaded CSV file 
 
 The File Upload component allows users to select a CSV file for processing. Once a file is selected, the CSV Mapper Table component processes the file and displays its contents.
 
+you can get the sample file in the repo file.csv
+
 ## Getting Started
 
 To run this project locally, follow these steps:
